@@ -1,17 +1,19 @@
-# Ozias OROU YAWA
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=134E39&height=180&section=header&text=Kouma%20N'gobi%20Ozias%20OROU%20YAWA&fontSize=30&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%" />
+</div>
 
-### 👨‍🔬 Géographe-Écologue | Étudiant en Master 2 AGRN
-**Assistant de recherche** | Laboratoire d’Étude sur la Dynamique des Populations (POP-DYN), Université de Parakou
+<h3 align="center">🌱 Geographer-Ecologist | M2 Student in AGRN</h3>
+<p align="center">Spatial Analysis, GIS & Biodiversity Specialist | Research Assistant (POP-DYN)</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ozias-orou-yawa-922a05264" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://orcid.org/0000-0003-2924-2460" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   <a href="mailto:oziasorouyawa00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -21,6 +23,9 @@
 
 As a geographer-ecologist, my passion lies in the study of tropical forest ecosystems. I am broadly interested in ecology, with a particular focus on population and community ecology—especially understanding the effects of resource exploitation on population dynamics and community assembly. I am also deeply passionate about spatial ecology, cartography, and remote sensing, applying spatial and statistical data analysis to decipher and understand the impacts of global changes on biodiversity.
 
+* 📍 Based in Parakou, Benin
+* 🔬 Research Assistant at the Population Dynamics Study Laboratory (**POP-DYN**), University of Parakou
+
 ---
 
 <table>
@@ -28,27 +33,27 @@ As a geographer-ecologist, my passion lies in the study of tropical forest ecosy
     <td width="50%" valign="top">
       <h3>🎯 Interests</h3>
       <ul>
-        <li>Écologie forestière & tropicale</li>
-        <li>Écologie des populations & des communautés</li>
-        <li>Écologie spatiale, Cartographie & Télédétection</li>
-        <li>Conservation des ressources naturelles</li>
-        <li>Modélisation statistique & SDM (MaxEnt)</li>
+        <li>Forest & Tropical Ecology</li>
+        <li>Population & Community Ecology</li>
+        <li>Spatial Ecology, Cartography & Remote Sensing</li>
+        <li>Natural Resource Conservation</li>
+        <li>Predictive Modeling & SDM (MaxEnt)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Education</h3>
       <ul>
         <li>
-          <b>Master 1 en AGRN</b> (2025–2026)<br>
-          Faculté d’Agronomie, Université de Parakou
+          <b>M2 in Natural Resource Management and Planning (AGRN)</b> (2026–2027)<br>
+          Faculty of Agronomy, University of Parakou
         </li>
         <li>
-          <b>Formation en agronomisation</b> (2024–2025)<br>
-          CePeSA, Faculté d’Agronomie, Université de Parakou
+          <b>M1 in Natural Resource Management and Planning (AGRN)</b> (2025–2026)<br>
+          Faculty of Agronomy, University of Parakou
         </li>
         <li>
-          <b>Licence en Géographie Physique</b> (2019–2022)<br>
-          Spécialisation Géomatique & Biodiversité (Mention Bien)
+          <b>BSc in Physical Geography</b> (2019–2022)<br>
+          Specialization in Geomatics & Biodiversity (Honors / Mention Bien)
         </li>
       </ul>
     </td>
@@ -59,12 +64,21 @@ As a geographer-ecologist, my passion lies in the study of tropical forest ecosy
 
 ## 🛠️ Technical Skills
 
-* **Analyse Spatiale & SIG:** QGIS, ArcGIS, Surfer 3D, ENVI, Fragstat, Google Earth Engine (Sentinel, Landsat, MODIS, WorldPop, NDVI, EVI, LST)
-* **Analyse Statistique & Données:** Programmation en R (GLM/effets mixtes, ACP, ggplot2, Vegan, bibliometrix, MaxEnt & SDMTools)
-* **Collecte Terrain:** KoboCollect, Locus Map, enquêtes socio-économiques
+* **Spatial Analysis & GIS:** QGIS, ArcGIS, Surfer 3D, ENVI, Fragstat, Google Earth Engine (Sentinel, Landsat, MODIS, WorldPop, NDVI, EVI, LST)
+* **Statistical Analysis:** R programming (Generalized Linear Models / mixed effects, PCA, ggplot2, Vegan, bibliometrix, MaxEnt & SDMTools)
+* **Fieldwork & Collection:** KoboCollect, Locus Map, socio-economic surveys, ecosystem ecology
 
 ---
 
 ## 📚 Selected Publications
 
-* **Orou Yawa, O.** (2025). *Fragmentation de la zone forestière des Monts Kouffè.* Mémoire de licence professionnelle, Université de Parakou. [Zenodo DOI](https://doi.org/10.5281/zenodo.15870851)
+* **Orou Yawa, O.** (2025). *Fragmentation de la zone forestière des Monts Kouffè.* Professional Bachelor's thesis, University of Parakou. 👉 [Zenodo DOI](https://doi.org/10.5281/zenodo.15870851)
+* **Orou Yawa, O.** (June 2025). *Plasticité comportementale dans la sélection des matériaux de construction des nids par les fourmis tresseuses Oecophylla longinoda...* POP-DYN Symposium, University of Parakou.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oyawa02&show_icons=true&theme=forest&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
